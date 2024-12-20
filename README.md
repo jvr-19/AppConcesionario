@@ -2,6 +2,15 @@
 
 Una aplicación web diseñada para la gestión eficiente de un concesionario de coches. Este proyecto incluye un panel CRUD que permite la introducción, edición, eliminación y visualización de registros de vehículos.
 
+## Página Principal
+![Página Principal](image.png)
+
+## Página de Administración
+![Página de Administración](image-1.png)
+
+## Página mostrar vehículos
+![Página mostrar vehículos](image-2.png)
+
 ## 🚀 Características
 
 - **Gestión CRUD completa**: Crear, leer, actualizar y eliminar registros de vehículos.
